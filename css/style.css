@@ -129,8 +129,8 @@ a {
     position: relative;
     
     color: var(--accent-color);
-     display: flex;
-     align-items: center;
+    display: flex;
+    align-items: center;
 
 }
 
@@ -821,12 +821,12 @@ a {
     margin-bottom: 20px;
 
     font-weight: 700;
-        font-size: 14px;
-        line-height: 1.14;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 
-        color: var(--header-color);
+    color: var(--header-color);
 }
 
 
@@ -836,15 +836,15 @@ a {
     padding: 15px 16px;
 
     width: 358px;
-        height: 50px;
-        left: 815px;
-        top: 2787px;
+    height: 50px;
+    left: 815px;
+    top: 2787px;
         
-        color: var(--text-color);
-        border: 1px solid rgba(255, 255, 255, 0.3);
-        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
-        border-radius: 4px;
-        background-color: var(--footer-background-color);
+    color: var(--text-color);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
+    border-radius: 4px;
+    background-color: var(--footer-background-color);
 }
 
 
@@ -856,20 +856,20 @@ a {
     
 
     border-radius: 4px;
-        border: 1px solid transparent;
-        padding: 10px 32px;
+    border: 1px solid transparent;
+    padding: 10px 32px;
     
-        background-color: var(--accent-color);
-        color: #FFFFFF;
+    background-color: var(--accent-color);
+    color: #FFFFFF;
         
-        height: 50px;
-        font-weight: 700;
-        font-size: 16px;
-        line-height: 1.18;
-        letter-spacing: 0.06em;
+    height: 50px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.18;
+    letter-spacing: 0.06em;
     
-        transition: color var(--anim-aiow);
-        transition: background-color var(--anim-aiow);
+    transition: color var(--anim-aiow);
+    transition: background-color var(--anim-aiow);
 }
 
 .telegram-icon {
@@ -988,7 +988,7 @@ a {
     background-color: var(--accent-color);
     color: var(--header-color);
     box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1),
-        0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+    0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
     border-radius: 4px;
 }
 
@@ -1174,9 +1174,9 @@ a {
     margin-bottom: 4px;
 
     font-weight: 400;
-        font-size: 12px;
-        line-height: 1.16;
-        color: var(--text-color);
+    font-size: 12px;
+    line-height: 1.16;
+    color: var(--text-color);
 }
 
 
@@ -1186,7 +1186,7 @@ a {
 
     width: 100%;
     min-height:120px;
-    padding: 16px;
+    padding: 12px 16px;
     
     resize: none;
 }
@@ -1197,9 +1197,9 @@ a {
    
 
     font-weight: 400;
-        font-size: 14px;
-        line-height: 1.71;
-        color: var(--text-color);
+    font-size: 14px;
+    line-height: 1.71;
+    color: var(--text-color);
 
 }
 
@@ -1303,11 +1303,14 @@ a {
 }
 
 
+
+
 .input-check,
 .input-svg {
 
     transition: fill 250ms, border-color 250ms;
 }
+
 
 
 
